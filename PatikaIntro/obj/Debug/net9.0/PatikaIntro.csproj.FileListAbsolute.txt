@@ -12,3 +12,4 @@
 /Users/pelinsubasaslan/PatikaIntro/PatikaIntro/obj/Debug/net9.0/PatikaIntro.pdb
 /Users/pelinsubasaslan/PatikaIntro/PatikaIntro/obj/Debug/net9.0/PatikaIntro.genruntimeconfig.cache
 /Users/pelinsubasaslan/PatikaIntro/PatikaIntro/obj/Debug/net9.0/ref/PatikaIntro.dll
+/Users/pelinsubasaslan/PatikaIntro/PatikaIntro/obj/Debug/net9.0/PatikaIntro.sourcelink.json
