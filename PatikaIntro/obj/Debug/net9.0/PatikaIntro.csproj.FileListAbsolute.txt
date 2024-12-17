@@ -1,0 +1,14 @@
+/Users/pelinsubasaslan/PatikaIntro/PatikaIntro/bin/Debug/net9.0/PatikaIntro
+/Users/pelinsubasaslan/PatikaIntro/PatikaIntro/bin/Debug/net9.0/PatikaIntro.deps.json
+/Users/pelinsubasaslan/PatikaIntro/PatikaIntro/bin/Debug/net9.0/PatikaIntro.runtimeconfig.json
+/Users/pelinsubasaslan/PatikaIntro/PatikaIntro/bin/Debug/net9.0/PatikaIntro.dll
+/Users/pelinsubasaslan/PatikaIntro/PatikaIntro/bin/Debug/net9.0/PatikaIntro.pdb
+/Users/pelinsubasaslan/PatikaIntro/PatikaIntro/obj/Debug/net9.0/PatikaIntro.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pelinsubasaslan/PatikaIntro/PatikaIntro/obj/Debug/net9.0/PatikaIntro.AssemblyInfoInputs.cache
+/Users/pelinsubasaslan/PatikaIntro/PatikaIntro/obj/Debug/net9.0/PatikaIntro.AssemblyInfo.cs
+/Users/pelinsubasaslan/PatikaIntro/PatikaIntro/obj/Debug/net9.0/PatikaIntro.csproj.CoreCompileInputs.cache
+/Users/pelinsubasaslan/PatikaIntro/PatikaIntro/obj/Debug/net9.0/PatikaIntro.dll
+/Users/pelinsubasaslan/PatikaIntro/PatikaIntro/obj/Debug/net9.0/refint/PatikaIntro.dll
+/Users/pelinsubasaslan/PatikaIntro/PatikaIntro/obj/Debug/net9.0/PatikaIntro.pdb
+/Users/pelinsubasaslan/PatikaIntro/PatikaIntro/obj/Debug/net9.0/PatikaIntro.genruntimeconfig.cache
+/Users/pelinsubasaslan/PatikaIntro/PatikaIntro/obj/Debug/net9.0/ref/PatikaIntro.dll
